@@ -15,7 +15,7 @@ A web-based ToDo List application built using Django that allows users to regist
 - Django
 - HTML
 - CSS
-- MYSQL
+- MySQL
 
 ## How to Run the Project
 
